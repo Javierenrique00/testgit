@@ -16,8 +16,10 @@ Voy a agregar la linea 3
 
 ---
 
-Vamos a a gregar las nuevas lineas a todos los archivos
-
 ---
 Esto es del parche 1
 ---
+
+Este es del parche 2
+---
+
