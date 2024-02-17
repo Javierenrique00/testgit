@@ -15,6 +15,11 @@ Vamos a agregar un par de lineas
 Voy a agregar la linea 3
 
 ---
+
+---
+Esto es del parche 1
+---
+
 Este es del parche 2
 ---
 

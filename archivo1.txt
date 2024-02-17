@@ -2,5 +2,11 @@ Este es el archivo 1
 que les parece
 
 ---
+=======
+ Bueno esta es un buena actualización
+
+ ---
+Mejor ahora
+---
 Esto es del parche 2
 ---
