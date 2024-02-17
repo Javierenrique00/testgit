@@ -1,2 +1,6 @@
 Este es el archivo 1
 que les parece
+
+---
+Esto es del parche 2
+---
